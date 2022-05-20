@@ -6,7 +6,7 @@
   },
   "husky": {
     "hooks": {
-      "pre-push":"commitlint -e -v"
+      "pre-push":"commitlint -e"
     }
   }
 }
